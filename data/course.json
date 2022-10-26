@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Javascript",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnofficial_JavaScript_logo_2.svg&psig=AOvVaw1jYWSgKzHmf-dyl1D7HX9R&ust=1666883154994000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNib_eSV_voCFQAAAAAdAAAAABAE",
+        "duration": 2,
+        "instructor": "Jimmy Dane",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flearnbatta.com%2Fassets%2Fimages%2Fpython%2Fpython-logo.png&imgrefurl=https%3A%2F%2Flearnbatta.com%2Fcourse%2Fpython%2Fpython-introduction-to-programming%2F&tbnid=RUAyQYLUbD6Y6M&vet=10CA8QxiAoAWoXChMIwNrqgJb--gIVAAAAAB0AAAAAEAc..i&docid=4T_fBAjvPIsLXM&w=602&h=577&itg=1&q=phython&ved=0CA8QxiAoAWoXChMIwNrqgJb--gIVAAAAAB0AAAAAEAc",
+        "duration": 2,
+        "instructor": "Jennifer Wood",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": 3,
+        "name": "Nodejs",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fnodejs-development-services%2Freviews&psig=AOvVaw3wA67e--CRmp1rdAVewwLG&ust=1666883254638000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDq_5OW_voCFQAAAAAdAAAAABAE",
+        "duration": 2,
+        "instructor": "Jennifer Wood",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": 4,
+        "name": "Java",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2F&psig=AOvVaw2dFje_7egvbZK1OheCrnG8&ust=1666883308471000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjiy62W_voCFQAAAAAdAAAAABAE",
+        "duration": 2,
+        "instructor": "Jennifer Wood",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": 5,
+        "name": "C Programming",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcontent.techgig.com%2Fcareer-advice%2F5-c-programming-books-for-beginners-and-experts%2Farticleshow%2F90325737.cms&psig=AOvVaw1ctlYuYt5lW3PlMX1f3aWp&ust=1666883354168000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICkxcOW_voCFQAAAAAdAAAAABAE",
+        "duration": 3,
+        "instructor": "Jimmy Dane",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": 6,
+        "name": "C++",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educative.io%2Fblog%2Fhow-to-learn-cpp-the-guide-for-beginners&psig=AOvVaw2q_3nc6bj159uQlA4noJM1&ust=1666883329368000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCAxreW_voCFQAAAAAdAAAAABAE",
+        "duration": 3,
+        "instructor": "Jimmy Dane",
+        "instructor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    }
+]
